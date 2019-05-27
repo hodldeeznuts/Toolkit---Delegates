@@ -1,0 +1,8 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Toolkit - Delegates\Toolkit - Delegates.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Toolkit - Delegates\Toolkit - Delegates.pdb
+C:\Users\donav\source\repos\Toolkit - Delegates\Toolkit - Delegates\obj\Release\Toolkit - Delegates.csprojAssemblyReference.cache
+C:\Users\donav\source\repos\Toolkit - Delegates\Toolkit - Delegates\obj\Release\Toolkit - Delegates.csproj.CoreCompileInputs.cache
+C:\Users\donav\source\repos\Toolkit - Delegates\Toolkit - Delegates\obj\Release\Toolkit - Delegates.dll
+C:\Users\donav\source\repos\Toolkit - Delegates\Toolkit - Delegates\obj\Release\Toolkit - Delegates.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Toolkit - Delegates\About\About.xml
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Toolkit - Delegates\About\Preview.png
